@@ -1,2 +1,3 @@
 # ehealthcare-
 3.1 project submission
+It is an website created using html,css,php, sql.This is an website where there is an account registration for doctors, doctors can update their professional information after loging in. there are menu called doctors,blood donor, hospital,ambulance where basic information will be shown. In the Doctor's professional information doctor can select hospital from a drop down menu where only the registered hospitals will be shown as an option. Also their is an admin priviledge available by which admin can delete update insert information that s shown in ambulance, doctor, hospital,blood donor. short.sql contains the database which is needed for the database action of this website
